@@ -3,7 +3,7 @@ using ApiProject.WebAPI.Entities;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ApiProject.WebAPI.Controller
+namespace ApiProject.WebAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
